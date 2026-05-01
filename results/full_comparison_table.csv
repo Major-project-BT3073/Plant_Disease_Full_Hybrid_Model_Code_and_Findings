@@ -1,0 +1,8 @@
+Method,PV Acc (%),PD Acc (%),Params(M)
+Mohanty et al. [2016],99.35,~84.0,6.8
+Atila et al. [2021],99.97,N/A,19.3
+Salman et al. [2025] SOTA,99.96,68.0,~86
+EfficientNet-B4 (Ours),Run NB1,—,19.3
+ViT-B/16 (Ours),Run NB1,—,86.6
+Hybrid CNN-ViT (Ours),Run NB1,—,~106
+PlantGuard / CNN+ViT+MoE (Ours),99.73,7.94,109.0
