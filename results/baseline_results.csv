@@ -1,0 +1,2 @@
+Model,Test Acc (%),Macro F1 (%),Inference (ms),Params (M),Best Val Acc (%)
+Hybrid CNN-ViT (Ours),99.04,98.69,93.69,106.3,99.02
